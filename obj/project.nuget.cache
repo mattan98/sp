@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q4HBaevOrWQIjYWPdTc9ULEsiYJaohz/UD/u8yrqV3BfNZL5fR6jXUg7X5QZpeJB25yXbSycWHm1CpjA11OAWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pansa\\OneDrive\\Dokument\\education\\backendtwo\\backendtwo\\backendtwo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pansa\\.nuget\\packages\\microsoft.aspnetcore.spaservices.extensions\\6.0.10\\microsoft.aspnetcore.spaservices.extensions.6.0.10.nupkg.sha512",
+    "C:\\Users\\pansa\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pansa\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "C:\\Users\\pansa\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "C:\\Users\\pansa\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pansa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

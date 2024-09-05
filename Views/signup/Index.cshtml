@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Sign Up";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Sign Up</h2>
+<form method="post" action="SignUp">
+    <label for="username">Username:</label>
+    <input type="text" name="username" id="username" required>
+
+    <label for="password">Password:</label>
+    <input type="password" name="password" id="password" required>
+
+    <label for="email">Email:</label>
+    <input type="email" name="email" id="email" required>
+
+    <button type="submit">Sign Up</button>
+</form>
+
